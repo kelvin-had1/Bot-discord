@@ -78,7 +78,7 @@ client.on('message', msg => {
 
     switch (comando) {
         case 'Mineiro':
-            msg.reply('Euvo seu doente! :cheese:')
+            msg.reply('Euvo! :cheese:')
             break;
 
             case 'Victor':
